@@ -36,3 +36,4 @@ Forgot password.
 
 Stay logged in.
 
+Magic link.
